@@ -1,6 +1,6 @@
 # Threaded Community App
 
-MonCraft is an iOS app designed for knitters, crocheters, and embroiderers to connect, share, and track their creative projects.
+Threaded is an iOS app designed for knitters, crocheters, and embroiderers to connect, share, and track their creative projects.
 
 ## Features
 
